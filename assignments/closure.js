@@ -3,6 +3,12 @@
 // Keep it simple! Remember a closure is just a function
 // that manipulates variables defined in the outer scope.
 // The outer scope can be a parent function, or the top level of the script.
+const state_name = "Minnesota";
+function state(){
+  const countyName = "Olmstead";
+  const sport2 = "Wild"
+  return state_name;
+  }
 
 
 /* STRETCH PROBLEMS, Do not attempt until you have completed all previous tasks for today's project files */
